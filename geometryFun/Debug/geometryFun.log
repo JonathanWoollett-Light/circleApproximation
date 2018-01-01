@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\jonat\source\repos\geometryfun\geometryfun\source.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonat\source\repos\geometryfun\geometryfun\source.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonat\source\repos\geometryfun\geometryfun\source.cpp(92): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\jonat\source\repos\geometryfun\geometryfun\source.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonat\source\repos\geometryfun\geometryfun\source.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonat\source\repos\geometryfun\geometryfun\source.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonat\source\repos\geometryfun\geometryfun\source.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonat\source\repos\geometryfun\geometryfun\source.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonat\source\repos\geometryfun\geometryfun\source.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonat\source\repos\geometryfun\geometryfun\source.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  geometryFun.vcxproj -> C:\Users\jonat\source\repos\geometryFun\Debug\geometryFun.exe
+  geometryFun.vcxproj -> C:\Users\jonat\source\repos\geometryFun\Debug\geometryFun.pdb (Partial PDB)
