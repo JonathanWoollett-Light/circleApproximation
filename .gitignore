@@ -3,3 +3,12 @@
 *.opendb
 *.db
 .vs/geometryFun/v15/ipch/AutoPCH/fad8ca965139b41e/SOURCE.ipch
+geometryFun/Debug/vc141.pdb
+*.tlog
+geometryFun/Debug/geometryFun.log
+*.log
+Debug/geometryFun.pdb
+*.pdb
+Debug/geometryFun.ilk
+*.ilk
+Debug/geometryFun.exe

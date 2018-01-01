@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <iostream>
-#include <vector>	
+#include <vector>
 
 double const r = 1;
 
@@ -96,6 +96,7 @@ void octahedronBase(int accuracy) {
 			for (int t = 0; t < sphereApproximation.vertices[i].linkedVertices.size(); t++) {
 				std::cout << "t: " << t << std::endl;
 				if (!newConnection[(i * (sphereApproximation.vertices.size() - 1)) + t]) {
+
 					pointerHolder = sphereApproximation.vertices[i].linkedVertices[t];
 					sphereApproximation.vertices.push_back(newVertice(&sphereApproximation.vertices[i], pointerHolder, accuracyIterator + 1));
 					
