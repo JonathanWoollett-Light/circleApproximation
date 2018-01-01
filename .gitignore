@@ -1,2 +1,5 @@
-.vs/geometryFun/v15/Browse.VC.db
-.vs/geometryFun/v15/Browse.VC.db
+*.suo
+*.db
+*.opendb
+*.db
+.vs/geometryFun/v15/ipch/AutoPCH/fad8ca965139b41e/SOURCE.ipch
